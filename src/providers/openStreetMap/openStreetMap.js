@@ -193,5 +193,4 @@ class OpenStreetMap extends Map {
     }
 }
 
-window.Map = OpenStreetMap;
 window.OneMap = OpenStreetMap;

@@ -263,5 +263,4 @@ class GoogleMap extends Map {
     }
 }
 
-window.Map = GoogleMap;
 window.OneMap = GoogleMap;

@@ -121,5 +121,4 @@ class Baidu extends Map {
     }
 }
 
-window.Map = Baidu;
 window.OneMap = Baidu;
