@@ -22,7 +22,7 @@
     "jshint": "^2.9.6",
     "jshint-loader": "^0.8.4",
     "node-libs-browser": "^0.5.2",
-    "object-assign": "^3.0.0",
+    "object-assign": "^4.1.1",
     "puppeteer": "^1.7.0",
     "regenerator-runtime": "^0.12.1",
     "style-loader": "^0.12.3",
