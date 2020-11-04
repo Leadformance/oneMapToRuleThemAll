@@ -12,7 +12,7 @@
     "@types/jest": "^23.3.1",
     "ajv": "^6.5.3",
     "babel-core": "^6.26.3",
-    "babel-jest": "^23.4.2",
+    "babel-jest": "^26.6.3",
     "babel-loader": "^8.0.0",
     "css-loader": "^0.14.4",
     "express": "^4.16.3",
