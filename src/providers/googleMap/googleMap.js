@@ -101,7 +101,7 @@ class GoogleMap extends AbstractMap {
             return param;
         }, '?');
 
-        urlParams += 'v=3.31&callback=_googleMapCallbackOnLoad&language=' + this.locale;
+        urlParams += 'v=3.43&callback=_googleMapCallbackOnLoad&language=' + this.locale;
 
         if (!this.options.loadParams.signature) {
             urlParams += '&key=' + this.apiKey;
